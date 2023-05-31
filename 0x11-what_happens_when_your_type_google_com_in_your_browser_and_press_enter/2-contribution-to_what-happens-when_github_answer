@@ -1,0 +1,11 @@
+Key detection: The keyboard hardware detects the physical press of the "g" key and sends a corresponding electrical signal to the computer.
+
+Keyboard driver: The operating system receives the electrical signal from the keyboard and passes it to the keyboard driver. The keyboard driver translates the signal into a specific key code or character representation.
+
+Input event: The keyboard driver generates an input event for the "g" key press, indicating that the "g" key has been pressed.
+
+Application focus: If there is an active application or window on the computer, the operating system directs the input event to that specific application, allowing it to receive the key press event.
+
+Text input: If the application has a text input field in focus (e.g., a document editor or a text box), the input event triggers the insertion of the character "g" at the cursor position within the text field.
+
+Command execution: In certain applications or contexts, the "g" key might be associated with a specific command or function. For example, in web browsers, pressing "g" often focuses the browser's address bar, allowing the user to initiate a search or enter a URL.
