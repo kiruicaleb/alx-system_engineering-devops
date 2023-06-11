@@ -1,15 +1,1 @@
-DNS resolution: Your computer sends a DNS request to a DNS server to resolve the domain name "www.google.com" into an IP address.
-
-Establishing connection: Your computer establishes a TCP connection with the server's IP address on the appropriate port.
-
-Encrypted traffic: The connection is secured using HTTPS, ensuring that the traffic between your browser and the server is encrypted.
-
-Firewall: The encrypted traffic passes through your computer's firewall, which checks for any security concerns and ensures that the communication meets the defined rules.
-
-Load balancer: If Google uses a load balancer, it distributes the request to an appropriate web server to achieve optimal resource utilization and availability.
-
-Web server: The web server receives the request and serves the corresponding web page to fulfill the request.
-
-Application server: For more complex web applications, an application server may generate the web page by processing logic and business processes.
-
-Database interaction: If the application server requires data from a database, it sends a request to the database server to retrieve or update the necessary information.
+https://imgur.com/a/K5sxFdU
